@@ -8,7 +8,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
@@ -35,16 +34,19 @@
     <li><a href="#">CSS</a></li>
   </ul>
 </details>
+
 ### Key Features <a name="key-features"></a>
+
 - **[Home page]**
+
 ## 💻 Getting Started <a name="getting-started"></a>
 > He or she can follow the linter order of configuration to configure his or her linters successfully
 ### Prerequisites
+
 ### Setup
 Clone this repository to your desired folder:
 If you want to clone this repository, clone into your desired folder and enter "https://github.com/Marwan/trials.git" into your terminal
-### Install
-The project is installed once you clone it on your local machine
+
 ### Usage
 Open index.html in your browser
 ### Run tests
